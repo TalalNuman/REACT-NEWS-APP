@@ -1,3 +1,5 @@
+This is a React App using News API to  display Top Headlines from different Categories like Technology, Science, Health, Entertainment etc. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
