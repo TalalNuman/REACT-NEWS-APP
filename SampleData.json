@@ -1,0 +1,122 @@
+{
+    
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Jeanna Smialek",
+    "title": "Business News Live Updates: Stock Market and Federal Reserve - The New York Times",
+    "description": "The Federal Reserve chair said it is important for policy to be positioned to react, and the central bank would act to keep prices stable if necessary.",
+    "url": "https://www.nytimes.com/live/2021/10/22/business/news-business-stock-market",
+    "urlToImage": "https://static01.nyt.com/images/2021/10/22/business/22Econ-briefing-Powell/merlin_195599379_fde77482-9945-4c13-8ff8-e3f76b0c1374-facebookJumbo.jpg",
+    "publishedAt": "2021-10-22T18:15:26Z",
+    "content": "By Jeanna Smialek\r\nThe pandemic-related shortages that are pushing consumer prices higher are poised to last longer than economists and policymakers had expected, said Jerome H. Powell, the Federal R… [+24558 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Amir Vera, CNN",
+    "title": "The timeline of Brian Laundrie's disappearance still doesn't jibe among authorities and his family's lawyer - CNN",
+    "description": "Now that the remains of Brian Laundrie have been positively identified by authorities, there are still lingering questions as to why, how and even when he disappeared in the days after his fiancée, Gabby Petito, was reported missing.",
+    "url": "https://www.cnn.com/2021/10/22/us/brian-laundrie-parents-law-enforcement/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211021082405-02-brian-laundrie-super-tease.jpg",
+    "publishedAt": "2021-10-22T17:59:00Z",
+    "content": "(CNN)Now that the remains of Brian Laundrie have been positively identified by authorities, there are still lingering questions as to why, how and even when he disappeared in the days after his fianc… [+7096 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Ryan Gaydos",
+    "title": "Tua Tagovailoa 'is our quarterback,' Dolphins coach Brian Flores says amid Deshaun Watson rumors - Fox News",
+    "description": "Miami Dolphins coach Brian Flores tried to steer speculation away from the team’s quarterbacks as it’s been long-rumored the franchise is going after Houston Texans quarterback Deshaun Watson.",
+    "url": "https://www.foxnews.com/sports/tua-tagovailoa-our-quarterback-watson-rumors",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/Brian-Flores-Tua-Tagovailoa.jpg",
+    "publishedAt": "2021-10-22T17:51:48Z",
+    "content": "Miami Dolphins coach Brian Flores tried to steer speculation away from the teams quarterbacks as its been long-rumored the franchise is going after Houston Texans quarterback Deshaun Watson.\r\nThe Hou… [+2066 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Peter Aitken",
+    "title": "CDC mask guidelines under review as COVID numbers fall, cold season begins - Fox News",
+    "description": "Health officials will update mask guidance as COVID-19 cases and hospitalizations continue a downward trend, but the upcoming \"respiratory virus\" season may give them pause.",
+    "url": "https://www.foxnews.com/health/health-officials-mask-guidelines-falling-numbers-cold-season",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/10/walensky-white-house-press-2.png",
+    "publishedAt": "2021-10-22T17:32:17Z",
+    "content": "Healthofficials will update mask guidance as COVID-19 cases and hospitalizations continue a downward trend, but the upcoming \"respiratory virus\" season may give them pause. \r\nThe White House COVID-19… [+2487 chars]"
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Adam Taylor",
+    "title": "Biden Taiwan remarks contradict a deliberately ambiguous US policy - The Washington Post",
+    "description": "Biden’s remarks on Taiwan’s defense clash with long-running U.S. policy of ‘strategic ambiguity.' Officials say there has been no policy change.",
+    "url": "https://www.washingtonpost.com/world/2021/10/22/biden-taiwan-defense-strategic-ambiguity/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IOEZN6RS2EI6ZABWPWZFLP7ROY.jpg&w=1440",
+    "publishedAt": "2021-10-22T17:25:19Z",
+    "content": "Are you saying that the United States would come to Taiwans defense if China attacked? host Anderson Cooper interjected.\r\nYes. We have a commitment, Biden quickly responded.\r\nWith those five words, t… [+1167 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Adam Liptak",
+    "title": "Supreme Court Again Refuses to Block Texas Abortion Law - The New York Times",
+    "description": "But the court said it would hear arguments on Nov. 1 on challenges to the law from the Biden administration and abortion providers in the state.",
+    "url": "https://www.nytimes.com/2021/10/22/us/supreme-court-abortion-texas.html",
+    "urlToImage": "https://static01.nyt.com/images/2021/10/22/us/politics/22dc-scotus/22dc-scotus-facebookJumbo.jpg",
+    "publishedAt": "2021-10-22T17:24:23Z",
+    "content": "The majority wrote that its ruling in no way limits other procedurally proper challenges to the Texas law, including in Texas state courts. Officials in Texas have said that providers can challenge t… [+1975 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "'My Heart Is Broken': Alec Baldwin Releases Statement On Prop Gun Death - NBC News",
+    "description": "After firing a prop gun that killed one crew member and injured another on the set of the movie “Rust,\" actor Alec Baldwin released a statement over Twitter ...",
+    "url": "https://www.youtube.com/watch?v=SC55K5usAaw",
+    "urlToImage": "https://i.ytimg.com/vi/SC55K5usAaw/maxresdefault.jpg",
+    "publishedAt": "2021-10-22T17:09:11Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Robert Towey",
+    "title": "U.S. officials keep close watch on the 'delta plus' Covid mutation as it spreads in the U.K. - CNBC",
+    "description": "The AY.4.2 subvariant has been detected in at least five cases in the U.S.: in Washington, D.C., California, North Carolina, Washington state and Massachusetts.",
+    "url": "https://www.cnbc.com/2021/10/22/covid-us-officials-keep-close-watch-on-the-delta-plus-mutation-as-it-spreads-in-the-uk.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106881307-16207500032021-05-11t161609z_1495071879_rc2sdn9losd9_rtrmadp_0_health-coronavirus-senate.jpeg?v=1634857055",
+    "publishedAt": "2021-10-22T16:52:38Z",
+    "content": "U.S. health officials are keeping a close eye on an emerging Covid-19 subvariant, dubbed \"delta plus,\" that some scientists say may be more contagious than the already highly transmissible delta vari… [+4351 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Jacqueline Howard, CNN",
+    "title": "Brain fog in Covid-19 patients can persist for months, even in those who were not hospitalized, study finds - CNN",
+    "description": "Cognitive impairment -- described as brain fog -- can persist for months in Covid-19 patients, even for some who were not hospitalized, according to a new study.",
+    "url": "https://www.cnn.com/2021/10/22/health/brain-fog-covid-19-patients-study-wellness/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211022112201-01-covid-symptoms-sign-090921-super-tease.jpg",
+    "publishedAt": "2021-10-22T16:49:00Z",
+    "content": null
+    }
+    ]
+    }
